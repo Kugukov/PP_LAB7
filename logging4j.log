@@ -1,0 +1,31 @@
+2022-11-09 19:06:16 [INFO ] FXMLDocumentController:60 - Start button action
+2022-11-09 19:06:16 [ERROR] FXMLDocumentController:91 - Error! Division by zero.
+2022-11-09 19:08:20 [INFO ] FXMLDocumentController:60 - Start button action
+2022-11-09 19:08:20 [ERROR] FXMLDocumentController:91 - Error! Division by zero.
+2022-11-09 19:08:24 [INFO ] FXMLDocumentController:60 - Start button action
+2022-11-09 19:08:46 [INFO ] FXMLDocumentController:98 - Start Cleaning
+2022-11-09 19:08:46 [INFO ] FXMLDocumentController:105 - End Cleaning
+2022-11-17 08:20:42 [INFO ] FXMLDocumentController:60 - Start button action
+2022-11-17 08:20:42 [ERROR] FXMLDocumentController:91 - Error! Division by zero.
+2022-11-17 08:20:42 [INFO ] FXMLDocumentController:93 - End button action
+2022-11-17 08:20:54 [INFO ] FXMLDocumentController:60 - Start button action
+2022-11-17 08:20:54 [INFO ] FXMLDocumentController:93 - End button action
+2022-11-17 08:20:57 [INFO ] FXMLDocumentController:98 - Start Cleaning
+2022-11-17 08:20:57 [INFO ] FXMLDocumentController:105 - End Cleaning
+2022-11-17 08:20:59 [INFO ] FXMLDocumentController:110 - End log4j
+2022-11-17 08:31:32 [INFO ] FXMLDocumentController:56 - Start button action
+2022-11-17 08:31:32 [ERROR] FXMLDocumentController:87 - Error! Division by zero.
+2022-11-17 08:31:32 [INFO ] FXMLDocumentController:89 - End button action
+2022-11-17 08:31:41 [INFO ] FXMLDocumentController:56 - Start button action
+2022-11-17 08:31:43 [WARN ] FXMLDocumentController:69 - Incorrect data!
+2022-11-17 08:31:52 [INFO ] FXMLDocumentController:56 - Start button action
+2022-11-17 08:31:52 [INFO ] FXMLDocumentController:89 - End button action
+2022-11-17 08:32:02 [INFO ] FXMLDocumentController:106 - End log4j
+2022-11-23 11:19:43 [INFO ] FXMLDocumentController:56 - Start button action
+2022-11-23 11:19:43 [ERROR] FXMLDocumentController:87 - Error! Division by zero.
+2022-11-23 11:19:43 [INFO ] FXMLDocumentController:89 - End button action
+2022-11-23 11:19:46 [INFO ] FXMLDocumentController:56 - Start button action
+2022-11-23 11:19:46 [INFO ] FXMLDocumentController:89 - End button action
+2022-11-23 11:19:48 [INFO ] FXMLDocumentController:94 - Start Cleaning
+2022-11-23 11:19:48 [INFO ] FXMLDocumentController:101 - End Cleaning
+2022-11-23 11:19:48 [INFO ] FXMLDocumentController:106 - End log4j
